@@ -1,0 +1,35 @@
+_repo: Joyous-Gard_20423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2007-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: Prelude -- Ideas -- Poetry -- Poetry and life -- Art -- Art and morality
+  -- Interpretation -- Education -- Knowledge -- Growth -- Emotion -- Memory -- Retrospect
+  -- Humour -- Visions -- Thought -- Accessibility -- Sympathy -- Science -- Work
+  -- Hope -- Experience -- Faith -- Progress -- The sense of beauty -- The principle
+  of beauty -- Life.
+title: Joyous Gard
+url: http://www.gutenberg.org/ebooks/20423
