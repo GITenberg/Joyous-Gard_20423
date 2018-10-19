@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Essays'
+- GITenberg
 tableOfContents: Prelude -- Ideas -- Poetry -- Poetry and life -- Art -- Art and morality
   -- Interpretation -- Education -- Knowledge -- Growth -- Emotion -- Memory -- Retrospect
   -- Humour -- Visions -- Thought -- Accessibility -- Sympathy -- Science -- Work
